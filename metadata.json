@@ -1,0 +1,8 @@
+{
+  "name": "John Pizza",
+  "description": "Digital menu for John Pizza, featuring pizzas, pastéis, and drinks with WhatsApp ordering integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
